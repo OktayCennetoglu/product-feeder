@@ -6,7 +6,7 @@ Cimri, Google or Facebook wants products data from e-commerce systems for advert
 ## How Should I Run It ?
 Example:
 
-```bash
+```php
 use Core\Facebook;
 use Core\Cimri;
 use Core\Google;
