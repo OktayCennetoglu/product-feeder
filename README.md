@@ -7,6 +7,10 @@ Cimri, Google or Facebook wants products data from e-commerce systems for advert
 Example:
 
 ```bash
+use Core\Facebook;
+use Core\Cimri;
+use Core\Google;
+
 $convert = new Facebook();
 $convert->outputFile($data);
 
